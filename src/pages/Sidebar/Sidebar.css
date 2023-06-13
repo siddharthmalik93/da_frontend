@@ -1,0 +1,13 @@
+.Logout {
+    position: "absolute";
+    bottom: "0vh";
+    background-color: "lightgray";
+}
+
+.Sidebar {
+    height: "88vh";
+}
+
+.Navbar {
+    margin: "30px"
+}

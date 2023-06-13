@@ -1,0 +1,22 @@
+.columnHeader {
+    background-color: #3ea020,
+}
+
+.degreeBtn {
+    color: #0a67b7;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.deteleBtn {
+    color: #c50404;
+    cursor: pointer;
+    margin-left: 10%;
+    transition: 0.2s;
+}
+
+.linkBtn {
+    color: #3ea020;
+    cursor: pointer;
+    transition: 0.2s;
+}
